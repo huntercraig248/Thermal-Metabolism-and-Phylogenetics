@@ -17,11 +17,15 @@ Please cite work as
 * Thermal Metabolism
   Folder of materials used in the thermal metabolism activity
   * 2023PUBWorksheets
+
     Worksheet for high school students
   * 2023ThermalMetabolismSlides
+  * 
     Presentation materials
+    
   * Post Thermal Lab Quiz_KEY
   * ThermalMetabolismSupplementalWorksheet
+    
     Worksheet to be done during lab activity
 * Phylogenetics
   Folder of materials used in the phylogenetics activity
