@@ -20,7 +20,7 @@ Please cite work as
 
     Worksheet for high school students
   * 2023ThermalMetabolismSlides
-  * 
+    
     Presentation materials
     
   * Post Thermal Lab Quiz_KEY
